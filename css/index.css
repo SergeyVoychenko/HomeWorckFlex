@@ -1,31 +1,36 @@
 @import "reset.css";
 @import "fonts.css";
-body {
+html {
     font-family: Mulish, sans-serif;
     font-style: normal;
     font-size: 10px;
+    color: black;
+    max-width: 1600px;
+}
+body {
+    background: #E5E5E5;
 }
 .section {
-    padding-bottom: 220px;
-    padding-top: 192px;
-
 }
 .box {
-    width: 1125px;
+}
+.heder {
 }
 .h2 {
-    font-size: 3.6rem;
-    font-weight: 700;
-    line-height: 1.56%;
-    margin-bottom: 61px;
-    text-align: center;
 }
-.h2::after {
-    content: "";
-    display: block;
-    width: 56px;
-    height: 2px;
-    border-radius: 5px;
-    background-color: black;
-    margin-top: 26px;
+.p1 {
+}
+.cardbox {
+}
+.ul {
+}
+.li {
+}
+.img {
+}
+.card {
+}
+.p {
+}
+.button {
 }
