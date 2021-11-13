@@ -8,13 +8,13 @@ body {
     font-family: Mulish, sans-serif;
     font-style: normal;
     color: black;
+    width: 100%;
+    height: 100%;
 }
 .box {
-   /* min-width: 1120px; */
-   margin-top: 0;
+   margin-top: 192px;
    margin-left: auto;
    margin-right: auto;
-   padding-top: 192px;
    display: flex;
    flex-direction: column;
    align-items: center;
@@ -51,6 +51,7 @@ body {
     margin-bottom: 80px;
 }
 .cardbox {
+    max-width: 1120px;
     padding-bottom: 70px;
     margin-left: auto;
     margin-right: auto;
