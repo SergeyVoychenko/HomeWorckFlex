@@ -76,7 +76,7 @@ ol,
 ul {
     list-style: none; /* маркеры без кружочков */
 }
-html {
+* {
     box-sizing: border-box;
 }
 blockquote,
